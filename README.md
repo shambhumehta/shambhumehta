@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shambhumehta
 - 👀 I’m interested in Software Development design and architecure
-- 🌱 I’m currently learning AWS and cloud web development and deployment
+- 🌱 I’m currently learning GO web development and deployment
 - 💞️ I’m looking to collaborate on Java and Spring Project
 - 📫 How to reach me shambhumehta@gmail.com
 
