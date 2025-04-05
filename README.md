@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shambhumehta
 - 👀 I’m interested in Software Development design and architecure
-- 🌱 I’m currently learning node.js backend development
+- 🌱 Quick learner
 - 💞️ I’m looking to collaborate on Java and Spring Project
 - Keep Learning: General Management Programme IIM Indore ongoing.. 
 
